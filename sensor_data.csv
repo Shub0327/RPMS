@@ -1,0 +1,2 @@
+is_leakage_detected,flow_rate_1,flow_rate_2,tds_value,temperature
+True,0.5,0.6,0.7,0.8
